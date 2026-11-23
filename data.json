@@ -1,0 +1,312 @@
+{
+  "name": "piratepots-casino.net",
+  "site_name": "piratepots-casino.net",
+  "html_head": "<link rel=\"canonical\" href=\"https://amun-bet.app/\">\n<link rel=\"alternate\" href=\"https://amun-bet.app/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Amunbet Casino UK – 450% up to £2,700 + 450 Free Spins\">\n<meta property=\"og:description\" content=\"Amunbet Casino UK: 450% welcome package up to £2,700 + 450 FS, weekly reloads, 30% live casino cashback, VIP from Anubis to Amun-Ra and GBP payments.\">\n<meta property=\"og:url\" content=\"https://amun-bet.app/\">\n<meta property=\"og:site_name\" content=\"Amunbet Casino\">\n<meta property=\"og:image\" content=\"https://amun-bet.app/uploads/amunbet-casino-baner_N-N-N-N-N-_N-N-N-N-N-_N-N-N-N-N.webp\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Amunbet Casino UK – 450% up to £2,700 + 450 Free Spins\">\n<meta name=\"twitter:description\" content=\"Amunbet Casino UK: 450% welcome package up to £2,700 + 450 FS, weekly reloads, 30% live casino cashback, VIP from Anubis to Amun-Ra and GBP payments.\">\n<meta name=\"twitter:image\" content=\"https://amun-bet.app/uploads/amunbet-casino-baner_N-N-N-N-N-_N-N-N-N-N-_N-N-N-N-N.webp\">",
+  "url": "piratepots-casino.net",
+  "template": "tupchiy",
+  "language_code": "en-GB",
+  "allow_indexing": false,
+  "redirect_404s_to_homepage": true,
+  "use_www_version": false,
+  "breadcrumbs": true,
+  "content": "<p></p>",
+  "pages": [
+    {
+      "id": 195,
+      "title": "",
+      "slug": "",
+      "content": "",
+      "seoTitle": "",
+      "seoDescription": "",
+      "htmlHead": "",
+      "gptPrompt": "",
+      "heroTitle": "",
+      "heroSubtitle": "",
+      "heroBadge": "",
+      "ctaText": "",
+      "tagline": "",
+      "heroImage": "",
+      "template": "default_tpl",
+      "isHomepage": false,
+      "order": 0,
+      "lang": "",
+      "faqTitle": "",
+      "popupText": "30% LIVE CASINO CASHBACK",
+      "popupLogo": "",
+      "sections": null,
+      "slots": [
+        {
+          "link": "/play/",
+          "logo": "",
+          "name": "",
+          "Name": ""
+        },
+        {
+          "link": "/play/",
+          "logo": "",
+          "name": "",
+          "Name": ""
+        },
+        {
+          "link": "/play/",
+          "logo": "",
+          "name": "",
+          "Name": ""
+        },
+        {
+          "link": "/play/",
+          "logo": "",
+          "name": "",
+          "Name": ""
+        }
+      ],
+      "bonuses": [
+        {
+          "link": "/play/",
+          "logo": "",
+          "name": "",
+          "Name": ""
+        },
+        {
+          "link": "/play/",
+          "logo": "",
+          "name": "",
+          "Name": ""
+        },
+        {
+          "link": "/play/",
+          "logo": "",
+          "name": "",
+          "Name": ""
+        },
+        {
+          "link": "/play/",
+          "logo": "",
+          "name": "",
+          "Name": ""
+        }
+      ],
+      "faq": [],
+      "globalSlotSetId": null,
+      "globalReviewSetId": null,
+      "websiteId": 257,
+      "createdAt": {},
+      "updatedAt": {},
+      "globalSlotSet": null,
+      "globalReviewSet": null,
+      "popup_text": "30% LIVE CASINO CASHBACK"
+    }
+  ],
+  "faq_schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": ""
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": ""
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": ""
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": ""
+        }
+      }
+    ]
+  },
+  "seo_description": null,
+  "redirect_site": null,
+  "hero_title": "Amunbet Casino UK: Slots, Live Tables and Sport",
+  "hero_subtitle": "RISE FROM ANUBIS TO AMUN-RA",
+  "hero_badge": "Amunbet Casino – Rewards from the Egyptian Gods",
+  "cta_text": "Get Bonus",
+  "tagline": "450% UP TO £2,700 + 450 FS",
+  "features_list": null,
+  "footer_text": "© 2026. Amunbet Casino. All rights reserved",
+  "popup_text": "30% LIVE CASINO CASHBACK",
+  "faq_title": "FAQ",
+  "login_text": "Sign in",
+  "register_text": "Sign up",
+  "slots_title": "Games at Amunbet",
+  "bonus_title": "Amunbet Casino Bonus",
+  "get_bonus_btn_text": "Claim Bonus",
+  "redirect_link": "/play/",
+  "home_name": "Amunbet Casino",
+  "subdomains": null,
+  "accent_color": "#e8e8e8",
+  "main_background": "#0A0805",
+  "secondary_background": "#1C150D",
+  "button_background": "#D2BDA2",
+  "button_text_color": "#1C150D",
+  "text_color": "#F6F0E9",
+  "color_highlight_text": "#D2BDA2",
+  "color_main_btn_text": "#FFFFFF",
+  "cta_background": "#00B268",
+  "logo": null,
+  "popup_logo": null,
+  "main_background_img": null,
+  "header_menu": [
+    {
+      "link": "/play/",
+      "label": "Welcome Bonus",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Promotions",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Games",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Payments",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_menu": [
+    {
+      "link": "/play/",
+      "label": "Live Casino",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Sports Betting",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Responsible Gambling",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_images": [
+    {
+      "link": "https://www.gamcare.org.uk/",
+      "image": "/uploads/1bfe3b454cda5ccf482e868ba2dfdc15.webp",
+      "image_alt": "gamcare"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
+      "image_alt": "visa"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/2333a8386ea6b8af17c8fa8ac44035e2.svg",
+      "image_alt": "mastercard"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/767309a1bb8da0f68e987f277a6ebbf1.webp",
+      "image_alt": "bitcoin"
+    }
+  ],
+  "Slots": [
+    {
+      "link": "/play/",
+      "logo": "",
+      "name": "",
+      "Name": ""
+    },
+    {
+      "link": "/play/",
+      "logo": "",
+      "name": "",
+      "Name": ""
+    },
+    {
+      "link": "/play/",
+      "logo": "",
+      "name": "",
+      "Name": ""
+    },
+    {
+      "link": "/play/",
+      "logo": "",
+      "name": "",
+      "Name": ""
+    }
+  ],
+  "Bonuses": [
+    {
+      "link": "/play/",
+      "logo": "",
+      "name": "",
+      "Name": ""
+    },
+    {
+      "link": "/play/",
+      "logo": "",
+      "name": "",
+      "Name": ""
+    },
+    {
+      "link": "/play/",
+      "logo": "",
+      "name": "",
+      "Name": ""
+    },
+    {
+      "link": "/play/",
+      "logo": "",
+      "name": "",
+      "Name": ""
+    }
+  ],
+  "Reviews": null,
+  "FAQ": [
+    {
+      "answer": "",
+      "question": ""
+    },
+    {
+      "answer": "",
+      "question": ""
+    },
+    {
+      "answer": "",
+      "question": ""
+    },
+    {
+      "answer": "",
+      "question": ""
+    }
+  ],
+  "_generated_at": "2026-11-23T15:16:32.784Z",
+  "_version": "1.0.0",
+  "_last_deploy": "2026-11-23T15:16:37.855Z",
+  "_deploy_trigger": "au01tg"
+}
